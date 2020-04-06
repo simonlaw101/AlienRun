@@ -1,6 +1,6 @@
 # AlienRun
 
-A collision avoidance game with object interactions, written in Feb 2016.
+A collision avoidance game with object interactions, university project in Feb 2016.
 
 ## How to use it
 

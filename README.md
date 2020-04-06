@@ -24,5 +24,5 @@ e.g. set PATH_TO_FX="C:\Program Files\JavaFx\javafx-sdk-11.0.2\lib"
 javac --module-path %PATH_TO_FX% --add-modules javafx.media,javafx.controls *.java
 java --module-path %PATH_TO_FX% --add-modules javafx.media,javafx.controls GameMain
 ```
-<br/><br/>
+<br/>
 https://openjfx.io/openjfx-docs/#introduction
